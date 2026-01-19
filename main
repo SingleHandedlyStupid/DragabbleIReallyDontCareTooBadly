@@ -1,7 +1,7 @@
 local drag = {}
 
 
-function make_drag(gui)
+function drag:make_drag(gui)
 
 local UserInputService = game:GetService("UserInputService")
 
